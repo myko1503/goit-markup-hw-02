@@ -3,15 +3,48 @@ body {
   color: #434455;
   background-color: #fff;
 }
+
 a {
   text-decoration: none;
 }
+
 ul,
 ol {
   list-style: none;
 }
+
 button {
   cursor: pointer;
+}
+
+/* Section Styles */
+.section {
+  background-color: #2e2f42;
+}
+
+/* Header Styles */
+.header {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+/* Button Styles */
+.button {
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+
+.button:hover,
+.button:focus {
+  background-color: #404bbf;
 }
 
 .logo {
@@ -44,16 +77,19 @@ button {
 .address {
   font-style: normal;
 }
+
 .address-link {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
 .address-link:hover,
 .address-link:focus {
   color: #404bbf;
 }
+
 .logo-link {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
