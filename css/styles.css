@@ -17,7 +17,7 @@ ol {
 }
 .logo {
   color: #4d5ae5;
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
@@ -39,7 +39,7 @@ ol {
   color: #404bbf;
 }
 .address {
-  font-style: normal;
+  font-style: "normal";
 }
 .address-link {
   color: #434455;
