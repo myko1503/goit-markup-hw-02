@@ -17,12 +17,10 @@ button {
   cursor: pointer;
 }
 
-/* Section Styles */
 .section {
   background-color: #2e2f42;
 }
 
-/* Header Styles */
 .header {
   font-size: 56px;
   line-height: 1.07;
@@ -31,7 +29,6 @@ button {
   color: #ffffff;
 }
 
-/* Button Styles */
 .button {
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
