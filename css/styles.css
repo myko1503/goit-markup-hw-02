@@ -17,10 +17,10 @@ ol {
 }
 .logo {
   color: #4d5ae5;
-  font-family: "Raleway", sans-serif;
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.17;
+  line-height: 1.5;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -28,7 +28,7 @@ ol {
   color: #2e2f42;
 }
 .nav-link {
-  color: #434455;
+  color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -39,7 +39,7 @@ ol {
   color: #404bbf;
 }
 .address {
-  font-style: "normal";
+  font-style: normal;
 }
 .address-link {
   color: #434455;
@@ -53,7 +53,7 @@ ol {
 }
 
 .logo-link {
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -66,7 +66,7 @@ ol {
 }
 
 .menu-nav-link {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -82,7 +82,7 @@ ol {
   font-style: normal;
 }
 .address-link {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
