@@ -11,22 +11,26 @@ a {
 .address a {
   text-decoration: none;
 }
+
 ul,
 ol {
   list-style: none;
 }
+
 .logo {
   color: #4d5ae5;
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1, 17;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
+
 .logo-part {
   color: #2e2f42;
 }
+
 .nav-link {
   color: #2e2f42;
   font-size: 16px;
@@ -34,19 +38,23 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
 .nav-link:hover,
 .nav-link:focus {
   color: #404bbf;
 }
+
 .address {
   font-style: normal;
 }
+
 .address-link {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
 .address-link:hover,
 .address-link:focus {
   color: #404bbf;
@@ -61,6 +69,7 @@ ol {
   text-transform: uppercase;
   color: #4d5ae5;
 }
+
 .studio {
   color: #2e2f42;
 }
@@ -78,9 +87,11 @@ ol {
 .menu-nav-link:focus {
   color: #404bbf;
 }
+
 .address {
   font-style: normal;
 }
+
 .address-link {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
