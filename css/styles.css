@@ -100,7 +100,7 @@ ul li {
 .mains {
 }
 
-.section1 {
+.section-1 {
   background: #2e2f42;
 }
 
@@ -149,7 +149,7 @@ ul li {
   background-color: #404bbf;
 }
 
-.section2 {
+.section-2 {
   font-weight: 500;
   font-size: 20px;
   line-height: 0.02em;
@@ -178,7 +178,7 @@ ul li {
   color: #434455;
 }
 
-.section3 {
+.section-3 {
   background-color: #f4f4fd;
 }
 
@@ -216,7 +216,7 @@ ul li {
   color: #434455;
 }
 
-.section4 {
+.section-4 {
 }
 
 .our {
