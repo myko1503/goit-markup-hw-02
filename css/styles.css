@@ -149,7 +149,11 @@ ul li {
   background-color: #404bbf;
 }
 
-.section-2 {
+.section-2 h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 0.02em;
+  color: #2e2f42;
 }
 
 .spdt-ul {
