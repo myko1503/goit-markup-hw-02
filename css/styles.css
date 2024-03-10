@@ -4,14 +4,8 @@ body {
   background-color: #ffffff;
 }
 
-.header {
-}
-
 .studio:focus {
   color: #404bbf;
-}
-
-.nav-menu {
 }
 
 .webstudio {
@@ -22,6 +16,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  text-decoration: none;
 }
 .studio span {
   color: #2e2f42;
@@ -50,6 +45,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-decoration: none;
 }
 
 ul li {
@@ -68,9 +64,6 @@ ul li {
   font-style: normal;
 }
 
-.address-ul {
-}
-
 .address-use {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
@@ -78,26 +71,11 @@ ul li {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  text-decoration: none;
 }
 .address-use:hover,
 :focus {
   color: #404bbf;
-}
-
-.address-use {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.address-use:hover,
-:focus {
-  color: #404bbf;
-}
-
-.mains {
 }
 
 .section-1 {
@@ -114,7 +92,6 @@ ul li {
 }
 
 .button-order-service {
-  background-color: #404bbf;
   cursor: pointer;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -154,12 +131,6 @@ ul li {
   font-size: 20px;
   line-height: 0.02em;
   color: #2e2f42;
-}
-
-.spdt-ul {
-}
-
-.spdt-spdt-p {
 }
 
 .spdt {
@@ -216,9 +187,6 @@ ul li {
   color: #434455;
 }
 
-.section-4 {
-}
-
 .our {
   font-weight: 700;
   font-size: 36px;
@@ -227,12 +195,6 @@ ul li {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
-}
-
-.our-ul {
-}
-
-.our-li {
 }
 
 .bcm {
@@ -251,12 +213,6 @@ ul li {
   color: #434455;
 }
 
-.section-5-ul {
-}
-
-.section-5-li {
-}
-
 .foot {
   background: #2e2f42;
 }
@@ -266,7 +222,6 @@ ul li {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #f4f4fd;
   color: #f4f4fd;
 }
 
@@ -292,4 +247,5 @@ ul li {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  text-decoration: none;
 }
