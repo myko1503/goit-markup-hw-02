@@ -65,6 +65,7 @@ ul {
 .contacts {
   display: flex;
   align-items: center;
+  font-style: normal;
 }
 
 .contacts li {
@@ -238,8 +239,12 @@ ul {
 
 .webstudio-footer,
 .studio-footer {
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
   text-decoration: none;
 }
 
