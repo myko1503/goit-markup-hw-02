@@ -2,7 +2,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif; /* Вимога №3 */
   color: #434455;
   background-color: #ffffff;
 }
@@ -26,10 +26,13 @@ ul {
 }
 
 .logo {
-  font-size: 24px;
+  font-size: 18px; /* Перевірка заголовку */
   font-weight: 700;
   text-decoration: none;
   color: #4d5ae5;
+  line-height: 1.17; /* Перевірка заголовку */
+  letter-spacing: 0.03em; /* Перевірка заголовку */
+  text-transform: uppercase; /* Перевірка заголовку */
 }
 
 .logo .studio {
@@ -42,11 +45,16 @@ ul {
   margin-left: 40px;
 }
 
-.menu li a {
+.menu li {
   margin-right: 20px;
+}
+
+.menu li a {
   font-weight: 500;
   text-decoration: none;
   color: #2e2f42;
+  line-height: 1.5; /* Перевірка посилання */
+  letter-spacing: 0.02em; /* Перевірка посилання */
 }
 
 .menu li a:hover,
@@ -85,9 +93,9 @@ ul {
 }
 
 .hero-title {
-  font-size: 36px;
-  font-weight: 700;
-  margin-bottom: 20px;
+  font-size: 56px; /* Перевірка заголовку */
+  line-height: 1.07; /* Перевірка заголовку */
+  letter-spacing: 0.02em; /* Перевірка заголовку */
 }
 
 .button {
@@ -116,11 +124,13 @@ ul {
 }
 
 .section-title {
-  font-size: 36px;
+  font-size: 20px; /* Перевірка заголовку */
   font-weight: 700;
   text-align: center;
   margin-bottom: 40px;
-  color: #2e2f42;
+  line-height: 1.2; /* Перевірка заголовку */
+  letter-spacing: 0.02em; /* Перевірка заголовку */
+  text-transform: capitalize; /* Перевірка заголовку */
 }
 
 .advantages-list {
@@ -132,7 +142,7 @@ ul {
 }
 
 .advantage-title {
-  font-size: 24px;
+  font-size: 20px; /* Перевірка заголовку */
   font-weight: 700;
   margin-bottom: 10px;
   color: #2e2f42;
@@ -201,12 +211,12 @@ ul {
 
 .portfolio-item-image {
   border-radius: 8px;
-  width: 360px;
-  height: 240px;
+  width: 360px; /* Перевірка ширини */
+  height: 240px; /* Перевірка висоти */
 }
 
 .portfolio-item-title {
-  font-size: 20px;
+  font-size: 20px; /* Перевірка заголовку */
   font-weight: 500;
   margin-top: 20px;
   color: #2e2f42;
@@ -226,19 +236,22 @@ ul {
   text-align: center;
 }
 
-.footer-logo,
+.webstudio-footer,
 .studio-footer {
   font-weight: 700;
   font-size: 18px;
   text-decoration: none;
 }
 
-.footer-logo {
+.webstudio-footer {
   color: #4d5ae5;
-  text-decoration: none;
 }
 
 .studio-footer {
   color: #ffffff;
-  text-decoration: none;
+}
+
+.footer-text {
+  line-height: 1.5; /* Перевірка параграфу */
+  letter-spacing: 0.02em; /* Перевірка параграфу */
 }
